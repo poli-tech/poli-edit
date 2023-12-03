@@ -8,7 +8,7 @@
 
 @import 'https://fonts.googleapis.com/css?family=Reenie+Beanie';
 
-@namespace "Verbum-EditorComposer";
+@namespace 'Verbum-EditorComposer';
 
 .editor-shell {
   margin: 20px auto;
