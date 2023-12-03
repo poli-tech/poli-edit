@@ -6,13 +6,12 @@
  *
  *
  */
-@namespace 'Verbum-toolbar';
 
-.toolbar {
+ .toolbar {
   height: 3rem;
 }
 
-.ToolbarPlugin__dialogActions {
+ .ToolbarPlugin__dialogActions {
   display: flex;
   flex-direction: row;
   justify-content: right;
