@@ -265,7 +265,7 @@ const ToolbarPlugin = ({
         blockType,
       }}
     >
-      <div className="toolbar">
+      <div className="toolbar" style={{height: '3rem'}}>
         <UndoButton />
         <RedoButton />
         <Divider />

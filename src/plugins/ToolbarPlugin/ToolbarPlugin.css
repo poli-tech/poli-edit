@@ -7,9 +7,6 @@
  *
  */
 
- .toolbar {
-  height: 3rem;
-}
 
  .ToolbarPlugin__dialogActions {
   display: flex;
