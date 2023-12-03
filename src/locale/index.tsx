@@ -3,8 +3,10 @@ import EN from './languages/en.json';
 import FR from './languages/fr.json';
 import PTBR from './languages/ptBr.json';
 import RU from './languages/ru.json';
+import TR from './languages/tr.json';
 
 export const resources = {
+  tr: TR,
   ar: {},
   de: {},
   en: EN,
